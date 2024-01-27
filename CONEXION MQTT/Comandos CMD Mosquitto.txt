@@ -1,0 +1,7 @@
+-----Sub------
+cd 'c:\Program Files\mosquitto'
+mosquitto_sub -h test.mosquitto.org -t "monitoreo/#" -d //Inicio servidor
+
+-----Pub------
+cd 'c:\Program Files\mosquitto'
+mosquitto_pub -h test.mosquitto.org -t "monitoreo/temperatura" -m "Hola mundo" -p "1883" -i "monitoreo_MQTT" -d //Envio de datos -d es para depuracion

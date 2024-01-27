@@ -1,0 +1,15 @@
+Adafruit IO Basic
+
+Devices: 0 of 2
+
+Groups: 1 of 5
+
+Feeds: 3 of 10
+
+Dashboards: 1 of 5
+
+Data Rate: 30 / min
+
+Current Usage: 1 / min
+
+Storage: 30 days

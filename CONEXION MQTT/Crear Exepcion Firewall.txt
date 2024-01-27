@@ -1,0 +1,6 @@
+entrar en firewall
+configuracion avanzada
+reglas de entrada
+puerto
+puertos especificos escribir: 1883
+siguiente...
